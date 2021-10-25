@@ -72,7 +72,7 @@ class ftl_order_checker(Thread):
     writeMutex = Lock()
     webhookMutex = Lock()
     delay = 2
-    webhook = "https://discord.com/api/webhooks/821454214240272384/oQtjciYP6sAvQgc2NorwSVrp9decsk75bBZj_eIQy57G6aiv-KR-A8xShhLNOlmvIPEe"
+    webhook = ""
     url = "https://footlocker.narvar.com/footlocker/tracking/uk-mail?order_number="
 
     proxies_vector = load_proxies()
