@@ -17,7 +17,7 @@ Python scripts which check <a href="https://www.footlocker.it/"><b>footlocker</b
 
 # How to set up
 
-Add your discord webhook to line <b>81</b>. Add your order number to "orders.csv" and run the script using "python 'cop_house_ftl_order_checker.py'" command on your terminal.
+Add your discord webhook to line <b>75</b>. Add your order number to "orders.csv" and run the script using "python 'cop_house_ftl_order_checker.py'" command on your terminal.
 
 # Suggestion
 
